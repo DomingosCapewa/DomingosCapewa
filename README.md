@@ -14,8 +14,8 @@
 
 ## 🙋‍♂️ Sobre mim
 
-Sou um entusiasta da tecnologia, apaixonado por resolver problemas com código. Estou focado em aprender desenvolvimento web full stack e construir projetos que causem impacto. 🚀
-Veja meu Portifólio: https://domingoscapewa.github.io/Portifolio/
+Sou um entusiasta da tecnologia, apaixonado por resolver problemas com código. Estou focado em aprender desenvolvimento web full stack e construir projetos que causem impacto. 🚀 <br>
+<a href="https://domingoscapewa.github.io/Portifolio/">Veja meu Portifólio</a>
 ---
 
 ## 💻 O que estou aprendendo
