@@ -68,4 +68,4 @@ Sou um entusiasta da tecnologia, apaixonado por resolver problemas com código. 
 
 ## 💡 Frase que me inspira
 
-> "Aprender é evoluir. E eu nunca paro de aprender."
+> "The beautiful thing about learning is that no one can take it away from you." - B.B. King
