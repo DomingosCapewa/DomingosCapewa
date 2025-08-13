@@ -32,6 +32,7 @@ Sou um entusiasta da tecnologia, apaixonado por resolver problemas com código. 
 
 - [**G-Tech**](https://github.com/DomingosCapewa/G-Tech): Plataforma de Gestão de Hospedagem na Nuvem. 
 - 📦 [**VGR-Bussiness**](https://github.com/DomingosCapewa/VGR): Vitrine virtual desenvolvida para a loja VGR.
+- [**Buscar por CEP**](https://domingoscapewa.github.io/Buscar_Por_Cep/): App web para a consulta de CEPs.
 
 ---
 
