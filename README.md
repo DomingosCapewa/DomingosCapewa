@@ -6,7 +6,7 @@
 
 <p align="center">
   🎓 Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> <br>
-  💻 Desenvolvedor Web em constante aprendizado <br>
+  💻 Desenvolvedor <b>Full-Stack</b> na <b>Prefeitura de São Paulo</b> em constante aprendizado <br>
   🚀 Apaixonado por tecnologia, inovação e código limpo
 </p>
 
