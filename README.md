@@ -30,9 +30,12 @@ Sou um entusiasta da tecnologia, apaixonado por resolver problemas com código. 
 
 ## 🔧 Projetos em destaque
 
-- [**G-Tech**](https://github.com/DomingosCapewa/G-Tech): Plataforma de Gestão de Hospedagem na Nuvem. 
+- [**Faturamento & Gestão**](https://sosoft.it.ao): Sistema criado para Gestão empresarial com foco em controle de receita, criação e emissão de faturas(Notas fiscais). 
+- [**G-Tech**](https://github.com/DomingosCapewa/G-Tech): Plataforma de Gestão de Hospedagem na Nuvem.
 - 📦 [**VGR-Bussiness**](https://github.com/DomingosCapewa/VGR): Vitrine virtual desenvolvida para a loja VGR.
+- [**Dicionário**](https://domingoscapewa.github.io/Dicionario-app/): Criado para ajudar no estudo de inglês. A aplicação apresenta exemplos aplicando palavras definidas pelo usuario e como são pronunciadas.
 - [**Buscar por CEP**](https://domingoscapewa.github.io/Buscar_Por_Cep/): App web para a consulta de CEPs.
+- [**App que gera Piadas**](https://domingoscapewa.github.io/App-de-piadas/): App criando para aplicar os conheceimentos em consumo de api.
 
 ---
 
