@@ -16,7 +16,11 @@
 
 Sou um entusiasta da tecnologia, apaixonado por resolver problemas com código. Estou focado em aprender desenvolvimento web full stack e construir projetos que causem impacto. 🚀 <br>
 <a href="https://domingoscapewa.github.io/Portifolio/">Veja meu Portifólio</a>
----
+
+- 🌐 Me siga no
+  <a href="https://www.linkedin.com/in/domingos-c-ti">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
+  </a>
 
 ## 💻 O que estou aprendendo
 
@@ -44,18 +48,6 @@ Sou um entusiasta da tecnologia, apaixonado por resolver problemas com código. 
 - [Descomplicando Git e GitHub: um guia para iniciantes](https://www.dio.me/articles/descomplicando-git-e-github-um-guia-para-iniciantes-ff1de8f6877b)
 - [Minha Jornada no DIO Campus Expert](https://www.dio.me/articles/minha-jornada-no-dio-campus-expert-5f19e883d3bd)
 
----
-
-## 🌐 Minhas redes
-
-<p align="center">
-  <a href="https://www.instagram.com/domingoscapewa/">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/domingos-c-ti">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
-  </a>
-</p>
 
 ---
 
