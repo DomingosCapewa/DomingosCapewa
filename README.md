@@ -26,7 +26,7 @@ Sou um entusiasta da tecnologia, apaixonado por resolver problemas com código. 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,js,html,css,angular,ts,dotnet,php,react" />
+    <img src="https://skillicons.dev/icons?i=dotnet,cs,js,html,css,angular,ts,next,react,php" />
   </a>
 </p>
 
