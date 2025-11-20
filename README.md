@@ -34,7 +34,7 @@ Sou um entusiasta da tecnologia, apaixonado por resolver problemas com código. 
 
 ## 🔧 Projetos em destaque
 
-- [**Faturamento & Gestão**](https://faturamento.sosoft.it.ao): Sistema criado para Gestão empresarial com foco em controle de receita, criação e emissão de faturas(Notas fiscais). 
+- [**Faturamento & Gestão**](https://soft.it.ao): Sistema criado para Gestão empresarial com foco em controle de receita, criação e emissão de faturas(Notas fiscais). 
 - [**G-Tech**](https://github.com/DomingosCapewa/G-Tech): Plataforma de Gestão de Hospedagem na Nuvem.
 - 📦 [**VGR-Bussiness**](https://github.com/DomingosCapewa/VGR): Vitrine virtual desenvolvida para a loja VGR.
 - [**Dicionário**](https://domingoscapewa.github.io/Dicionario-app/): Criado para ajudar no estudo de inglês. A aplicação apresenta exemplos aplicando palavras definidas pelo usuario e como são pronunciadas.
