@@ -54,8 +54,7 @@ Sou um entusiasta da tecnologia, apaixonado por resolver problemas com código. 
 ## 📈 Estatísticas do GitHub
 
 <p align="center">
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=DomingosCapewa&show_icons=true&theme=radical" alt="GitHub Stats"/> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DomingosCapewa&layout=compact&theme=radical" alt="Top Langs"/>
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DomingosCapewa&layout=compact&theme=radical" alt="Top Langs"/> -->
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DomingosCapewa&theme=radical&hide_border=false" alt="GitHub Streak"/>
 </p>
