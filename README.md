@@ -18,7 +18,7 @@ Sou um entusiasta da tecnologia, apaixonado por resolver problemas com código. 
 <a href="https://domingoscapewa.github.io/Portifolio/">Veja meu Portifólio</a>
 
 - 🌐 Me siga no
-  <a href="https://www.linkedin.com/in/domingos-c-ti">
+  <a href="//www.linkedin.com/in/domingos-capewa-dev/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
   </a>
 
