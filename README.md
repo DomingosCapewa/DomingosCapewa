@@ -12,7 +12,7 @@
 
 ---
 
-## 🙋‍♂️ Sobre mim
+## 🧘🏾 Sobre mim
 
 Sou um entusiasta da tecnologia, apaixonado por resolver problemas com código. Estou focado em aprender desenvolvimento web full stack e construir projetos que causem impacto. 🚀 <br>
 <a href="https://domingoscapewa.github.io/Portifolio/">Veja meu Portifólio</a>
@@ -34,6 +34,7 @@ Sou um entusiasta da tecnologia, apaixonado por resolver problemas com código. 
 
 ## 🔧 Projetos em destaque
 
+- [**Architecture and Dream & Construction (AD&C)**](https://architecture-dream-construction.vercel.app/): Portfólio empresarial.
 - [**Faturamento & Gestão**](https://soft.it.ao): Sistema criado para Gestão empresarial com foco em controle de receita, criação e emissão de faturas(Notas fiscais). 
 - [**G-Tech**](https://github.com/DomingosCapewa/G-Tech): Plataforma de Gestão de Hospedagem na Nuvem.
 - 📦 [**VGR-Bussiness**](https://github.com/DomingosCapewa/VGR): Vitrine virtual desenvolvida para a loja VGR.
