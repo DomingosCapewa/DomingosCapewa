@@ -17,11 +17,6 @@
 Sou um entusiasta da tecnologia, apaixonado por resolver problemas com código. Estou focado em aprender desenvolvimento web full stack e construir projetos que causem impacto. 🚀 <br>
 <a href="https://domingoscapewa.github.io/Portifolio/">Veja meu Portifólio</a>
 
-- 🌐 Me siga no
-  <a href="//www.linkedin.com/in/domingos-capewa-dev/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
-  </a>
-
 ## 💻 O que estou aprendendo
 
 <p align="center">
