@@ -137,8 +137,3 @@ Sou um entusiasta de tecnologia apaixonado por resolver problemas reais com cód
 
 </div>
 
----
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:0d1117&height=100&section=footer" width="100%"/>
-</div>
