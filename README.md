@@ -31,9 +31,6 @@
 ## 🧘🏾 Sobre mim
 
 Sou um entusiasta de tecnologia apaixonado por resolver problemas reais com código. Estou focado em aprender desenvolvimento web full stack e construir projetos que causem impacto real. Acredito em aprendizado contínuo e código limpo. 🚀
-
-<a href="https://domingoscapewa.github.io/Portifolio/">→ Veja meu Portfólio completo</a>
-
 ---
 
 ## ⚡ Stack & Tecnologias
