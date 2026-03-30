@@ -16,9 +16,6 @@
 </p>
 
 <p>
-  <a href="https://www.linkedin.com/in/domingos-capewa-dev">
-    <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
   &nbsp;
   <a href="https://domingoscapewa.github.io/Portifolio/">
     <img src="https://img.shields.io/badge/Portfólio-30363d?style=flat-square&logo=github&logoColor=white" alt="Portfólio"/>
