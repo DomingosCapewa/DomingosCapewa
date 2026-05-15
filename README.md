@@ -1,18 +1,10 @@
 <div align="center">
 
-<!-- Banner animado -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58a6ff&height=140&section=header&text=Domingos%20Capewa&fontSize=40&fontColor=e6edf3&fontAlignY=55&animation=fadeIn" width="100%"/>
 
-<!-- Badges de status -->
+<h3>🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas</h3>
 <p>
-  <img src="https://img.shields.io/badge/Back--end%20Dev-1f6feb?style=for-the-badge&logoColor=white" alt="Back-end Dev"/>
-  <img src="https://img.shields.io/badge/Full--stack%20Learner-d29922?style=for-the-badge&logoColor=white" alt="Full-stack Learner"/>
-</p>
-
-<h3>🎓 Estudante de Análise e Desenvolvimento de Sistemas</h3>
-<p>
-  💻 Desenvolvedor <strong>Back-end</strong> na <strong>GFT Technologies</strong> · em constante aprendizado<br>
-  🚀 Apaixonado por código limpo, inovação e projetos de impacto real
+  💻 Desenvolvedor <strong>Back-end</strong> na <strong>GFT Technologies</strong>.
 </p>
 
 <p>
@@ -39,7 +31,7 @@ Sou um entusiasta de tecnologia apaixonado por resolver problemas reais com cód
 
 ### Back-end & Linguagens
 <p>
-  <img src="https://skillicons.dev/icons?i=dotnet,cs,php,js,ts" />
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,php,js,ts,java" />
 </p>
 
 ### Front-end & Frameworks
@@ -49,14 +41,14 @@ Sou um entusiasta de tecnologia apaixonado por resolver problemas reais com cód
 
 ### Ferramentas
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,figma" />
 </p>
 
 </div>
 
 ---
 
-## 🔧 Projetos em Destaque
+## Projetos em Destaque
 
 <div align="center">
 <table>
@@ -103,21 +95,14 @@ Sou um entusiasta de tecnologia apaixonado por resolver problemas reais com cód
 
 ## 📜 Artigos Publicados
 
-- 📝 [Descomplicando Git e GitHub: um guia para iniciantes](https://www.dio.me/articles/descomplicando-git-e-github-um-guia-para-iniciantes-ff1de8f6877b)
-- 📝 [Minha Jornada no DIO Campus Expert](https://www.dio.me/articles/minha-jornada-no-dio-campus-expert-5f19e883d3bd)
+-  [Descomplicando Git e GitHub: um guia para iniciantes](https://www.dio.me/articles/descomplicando-git-e-github-um-guia-para-iniciantes-ff1de8f6877b)
+-  [Minha Jornada no DIO Campus Expert](https://www.dio.me/articles/minha-jornada-no-dio-campus-expert-5f19e883d3bd)
 
 ---
 
-## 📈 GitHub Stats
-
+## GitHub Stats
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=DomingosCapewa&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats"/>
-  &nbsp;
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DomingosCapewa&layout=compact&theme=github_dark&hide_border=true" alt="Top Langs"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DomingosCapewa&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=DomingosCapewa&theme=dark&hide_current_streak=true" alt="GitHub Streak" /></a>
 </div>
 
 ---
