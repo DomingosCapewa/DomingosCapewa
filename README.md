@@ -4,7 +4,7 @@
 
 <h3>🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas</h3>
 <p>
-  💻 Desenvolvedor <strong>Back-end</strong> na <strong>GFT Technologies</strong>.
+  💻 Desenvolvedor <strong>Back-end</strong> na <strong>GFT Technologies</strong>
 </p>
 
 <p>
