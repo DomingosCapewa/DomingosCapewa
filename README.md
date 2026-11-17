@@ -53,7 +53,7 @@ Acredito na aprendizagem contínua e na tecnologia como ferramenta para resolver
 
 ---
 
-## 🚀 Projetos em destaque
+## Projetos em destaque
 
 <table>
   <tr>
